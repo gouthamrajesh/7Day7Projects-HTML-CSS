@@ -76,7 +76,9 @@
 
 .our-team .social li a:hover
 { 
-    color: #000; 
+    color: #000;
+    display: inline-block; 
+    text-decoration: none;
 }
 
 .our-team .team-content
